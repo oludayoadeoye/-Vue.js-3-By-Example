@@ -1,0 +1,12 @@
+{
+  "name": "-vue.js-3-by-example",
+  "version": "1.0.0",
+  "description": "<a href=\"https://www.packtpub.com/product/vue-js-3-by-example/9781838826345\"><img src=\"https://static.packt-cdn.com/products/9781838826345/cover/smaller\" alt=\"Vue.js 3 By Example\" height=\"256px\" align=\"right\"></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
