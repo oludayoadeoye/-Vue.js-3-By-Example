@@ -1,4 +1,4 @@
-import { mount } from '@vue/test-utils'
+y9import { mount } from '@vue/test-utils'
 import Puzzles from '@/components/Puzzles.vue'
 
 describe('Puzzles.vue', () => {
